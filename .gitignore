@@ -138,6 +138,7 @@ message.commit
 .idea/
 .venv/
 stash/
+.stash/
 
 # vscode
 .vscode/
