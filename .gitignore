@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+.build/
 develop-eggs/
 dist/
 downloads/
@@ -152,3 +153,9 @@ profiles.yml
 # custom
 scratch/
 .scratch/
+temp/
+.temp/
+tmp/
+.tmp/
+.local/
+.notes/
