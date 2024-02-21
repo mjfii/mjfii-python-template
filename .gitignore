@@ -154,12 +154,19 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# PyCharm - Global
+.idea/.gitignore
+.idea/misc.xml
+.idea/vcs.xml
+
 # PyCharm - User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/profiles_settings.xml
+.idea/**/Project_Defaults.xml
 
 # PyCharm - AWS User-specific
 .idea/**/aws.xml
