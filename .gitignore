@@ -166,7 +166,7 @@ cython_debug/
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/**/profiles_settings.xml
-.idea/**/Project_Defaults.xml
+.idea/**/Project_Default.xml
 
 # PyCharm - AWS User-specific
 .idea/**/aws.xml
